@@ -1,16 +1,10 @@
 Granting access to a application
-As an administrator, you must provide access to the Operational Dashboard to users before they can view and use it from the navigation menu in Maximo® Manage.
+As an administrator, you must provide access to a application to users before they can view and use it from the navigation menu in Maximo® Manage.
 Before you begin
 Use an existing security group or create a security group and add the users to whom you want to give access to the application, to the security group. 
 For more information about creating a security group, see Creating security groups.
 
-Below are the steps to apply a application template to gain access to that application -
-1.In the Security Groups application, search for the security group you created for giving access to the application
-2.Select the security group from the search results.
-3.In the Applications tab, under Applications section, click the Open filter icon.
-4.Type the application name in the Description field.
-5.In the Options for the application section, select Actions > Apply Template.
-6.In the pop up , select Actions > Apply Template for the application template of the application.
+To give access to a application , visit the security group you belong to , in the Applications tab search for the application and apply application template. 
 
 Application templates
 Applications use the following security group templates to authorize application access to users.
